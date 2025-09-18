@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+bitsandbytes
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+gradio
+fastapi
+uvicorn
